@@ -1,3 +1,5 @@
 # Resu
-OpenAi Powered Streamlit App on Evaluating Resumes 
-Note: Only the Python Code has Been Uploaded as I do not want to leak my OpenAi API Key 😅
+
+OpenAI-powered Streamlit application for evaluating resumes against job descriptions.
+
+> **Note:** Only the Python source code has been uploaded to avoid exposing API keys 😅
