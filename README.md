@@ -1,2 +1,2 @@
 # Resu
-Streamlit App on Evaluating Resumes 
+OpenAi Powered Streamlit App on Evaluating Resumes 
