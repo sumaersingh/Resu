@@ -1,2 +1,2 @@
 # Resu
-Streamlit App on Judging resumes
+Streamlit App on Evaluating Resumes 
